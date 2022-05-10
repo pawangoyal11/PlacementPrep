@@ -1,7 +1,7 @@
 /*
     Algorithm-
     1. Have the parent pointers
-    2. Keep on moving by one ditance- upward, ledtward  & rightward and stop when distance is equal to K
+    2. Keep on moving by one ditance- upward, leftward  & rightward and stop when distance is equal to K
 */
 
 #include<iostream>
